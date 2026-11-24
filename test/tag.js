@@ -1,0 +1,1 @@
+(function(){var d=document.createElement("div");d.id="sian-tag-test";d.textContent="[TEST] 스크립트 태그로 넣은 안내문 (skin3)";d.style.cssText="background:#e3f2fd;border:1px solid #1d5fd1;padding:8px;margin:8px;font-weight:bold";document.body.insertBefore(d,document.body.firstChild);})();
